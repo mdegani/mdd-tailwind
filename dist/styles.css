@@ -921,6 +921,10 @@ button,
   background-color: #ffebef;
 }
 
+.bg-hot-pink {
+  background-color: #ff41b4;
+}
+
 .hover\:bg-transparent:hover {
   background-color: transparent;
 }
@@ -1211,6 +1215,10 @@ button,
 
 .hover\:bg-pink-lightest:hover {
   background-color: #ffebef;
+}
+
+.hover\:bg-hot-pink:hover {
+  background-color: #ff41b4;
 }
 
 .bg-bottom {
@@ -1565,6 +1573,10 @@ button,
   border-color: #ffebef;
 }
 
+.border-hot-pink {
+  border-color: #ff41b4;
+}
+
 .hover\:border-transparent:hover {
   border-color: transparent;
 }
@@ -1855,6 +1867,10 @@ button,
 
 .hover\:border-pink-lightest:hover {
   border-color: #ffebef;
+}
+
+.hover\:border-hot-pink:hover {
+  border-color: #ff41b4;
 }
 
 .rounded-none {
@@ -3839,6 +3855,10 @@ button,
   color: #ffebef;
 }
 
+.text-hot-pink {
+  color: #ff41b4;
+}
+
 .hover\:text-transparent:hover {
   color: transparent;
 }
@@ -4129,6 +4149,10 @@ button,
 
 .hover\:text-pink-lightest:hover {
   color: #ffebef;
+}
+
+.hover\:text-hot-pink:hover {
+  color: #ff41b4;
 }
 
 .text-xs {
@@ -4799,6 +4823,10 @@ button,
     background-color: #ffebef;
   }
 
+  .sm\:bg-hot-pink {
+    background-color: #ff41b4;
+  }
+
   .sm\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -5089,6 +5117,10 @@ button,
 
   .sm\:hover\:bg-pink-lightest:hover {
     background-color: #ffebef;
+  }
+
+  .sm\:hover\:bg-hot-pink:hover {
+    background-color: #ff41b4;
   }
 
   .sm\:bg-bottom {
@@ -5443,6 +5475,10 @@ button,
     border-color: #ffebef;
   }
 
+  .sm\:border-hot-pink {
+    border-color: #ff41b4;
+  }
+
   .sm\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -5733,6 +5769,10 @@ button,
 
   .sm\:hover\:border-pink-lightest:hover {
     border-color: #ffebef;
+  }
+
+  .sm\:hover\:border-hot-pink:hover {
+    border-color: #ff41b4;
   }
 
   .sm\:rounded-none {
@@ -7709,6 +7749,10 @@ button,
     color: #ffebef;
   }
 
+  .sm\:text-hot-pink {
+    color: #ff41b4;
+  }
+
   .sm\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -7999,6 +8043,10 @@ button,
 
   .sm\:hover\:text-pink-lightest:hover {
     color: #ffebef;
+  }
+
+  .sm\:hover\:text-hot-pink:hover {
+    color: #ff41b4;
   }
 
   .sm\:text-xs {
@@ -8670,6 +8718,10 @@ button,
     background-color: #ffebef;
   }
 
+  .md\:bg-hot-pink {
+    background-color: #ff41b4;
+  }
+
   .md\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -8960,6 +9012,10 @@ button,
 
   .md\:hover\:bg-pink-lightest:hover {
     background-color: #ffebef;
+  }
+
+  .md\:hover\:bg-hot-pink:hover {
+    background-color: #ff41b4;
   }
 
   .md\:bg-bottom {
@@ -9314,6 +9370,10 @@ button,
     border-color: #ffebef;
   }
 
+  .md\:border-hot-pink {
+    border-color: #ff41b4;
+  }
+
   .md\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -9604,6 +9664,10 @@ button,
 
   .md\:hover\:border-pink-lightest:hover {
     border-color: #ffebef;
+  }
+
+  .md\:hover\:border-hot-pink:hover {
+    border-color: #ff41b4;
   }
 
   .md\:rounded-none {
@@ -11580,6 +11644,10 @@ button,
     color: #ffebef;
   }
 
+  .md\:text-hot-pink {
+    color: #ff41b4;
+  }
+
   .md\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -11870,6 +11938,10 @@ button,
 
   .md\:hover\:text-pink-lightest:hover {
     color: #ffebef;
+  }
+
+  .md\:hover\:text-hot-pink:hover {
+    color: #ff41b4;
   }
 
   .md\:text-xs {
@@ -12541,6 +12613,10 @@ button,
     background-color: #ffebef;
   }
 
+  .lg\:bg-hot-pink {
+    background-color: #ff41b4;
+  }
+
   .lg\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -12831,6 +12907,10 @@ button,
 
   .lg\:hover\:bg-pink-lightest:hover {
     background-color: #ffebef;
+  }
+
+  .lg\:hover\:bg-hot-pink:hover {
+    background-color: #ff41b4;
   }
 
   .lg\:bg-bottom {
@@ -13185,6 +13265,10 @@ button,
     border-color: #ffebef;
   }
 
+  .lg\:border-hot-pink {
+    border-color: #ff41b4;
+  }
+
   .lg\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -13475,6 +13559,10 @@ button,
 
   .lg\:hover\:border-pink-lightest:hover {
     border-color: #ffebef;
+  }
+
+  .lg\:hover\:border-hot-pink:hover {
+    border-color: #ff41b4;
   }
 
   .lg\:rounded-none {
@@ -15451,6 +15539,10 @@ button,
     color: #ffebef;
   }
 
+  .lg\:text-hot-pink {
+    color: #ff41b4;
+  }
+
   .lg\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -15741,6 +15833,10 @@ button,
 
   .lg\:hover\:text-pink-lightest:hover {
     color: #ffebef;
+  }
+
+  .lg\:hover\:text-hot-pink:hover {
+    color: #ff41b4;
   }
 
   .lg\:text-xs {
@@ -16412,6 +16508,10 @@ button,
     background-color: #ffebef;
   }
 
+  .xl\:bg-hot-pink {
+    background-color: #ff41b4;
+  }
+
   .xl\:hover\:bg-transparent:hover {
     background-color: transparent;
   }
@@ -16702,6 +16802,10 @@ button,
 
   .xl\:hover\:bg-pink-lightest:hover {
     background-color: #ffebef;
+  }
+
+  .xl\:hover\:bg-hot-pink:hover {
+    background-color: #ff41b4;
   }
 
   .xl\:bg-bottom {
@@ -17056,6 +17160,10 @@ button,
     border-color: #ffebef;
   }
 
+  .xl\:border-hot-pink {
+    border-color: #ff41b4;
+  }
+
   .xl\:hover\:border-transparent:hover {
     border-color: transparent;
   }
@@ -17346,6 +17454,10 @@ button,
 
   .xl\:hover\:border-pink-lightest:hover {
     border-color: #ffebef;
+  }
+
+  .xl\:hover\:border-hot-pink:hover {
+    border-color: #ff41b4;
   }
 
   .xl\:rounded-none {
@@ -19322,6 +19434,10 @@ button,
     color: #ffebef;
   }
 
+  .xl\:text-hot-pink {
+    color: #ff41b4;
+  }
+
   .xl\:hover\:text-transparent:hover {
     color: transparent;
   }
@@ -19612,6 +19728,10 @@ button,
 
   .xl\:hover\:text-pink-lightest:hover {
     color: #ffebef;
+  }
+
+  .xl\:hover\:text-hot-pink:hover {
+    color: #ff41b4;
   }
 
   .xl\:text-xs {
