@@ -822,7 +822,7 @@ button,
 }
 
 .bg-blue {
-  background-color: #3490dc;
+  background-color: #06f;
 }
 
 .bg-blue-light {
@@ -1118,7 +1118,7 @@ button,
 }
 
 .hover\:bg-blue:hover {
-  background-color: #3490dc;
+  background-color: #06f;
 }
 
 .hover\:bg-blue-light:hover {
@@ -1474,7 +1474,7 @@ button,
 }
 
 .border-blue {
-  border-color: #3490dc;
+  border-color: #06f;
 }
 
 .border-blue-light {
@@ -1770,7 +1770,7 @@ button,
 }
 
 .hover\:border-blue:hover {
-  border-color: #3490dc;
+  border-color: #06f;
 }
 
 .hover\:border-blue-light:hover {
@@ -3756,7 +3756,7 @@ button,
 }
 
 .text-blue {
-  color: #3490dc;
+  color: #06f;
 }
 
 .text-blue-light {
@@ -4052,7 +4052,7 @@ button,
 }
 
 .hover\:text-blue:hover {
-  color: #3490dc;
+  color: #06f;
 }
 
 .hover\:text-blue-light:hover {
@@ -4509,6 +4509,19 @@ button,
   z-index: auto;
 }
 
+.btn {
+  font-weight: 700;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.btn-blue {
+  background-color: #06f;
+  color: #fff;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
@@ -4724,7 +4737,7 @@ button,
   }
 
   .sm\:bg-blue {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .sm\:bg-blue-light {
@@ -5020,7 +5033,7 @@ button,
   }
 
   .sm\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .sm\:hover\:bg-blue-light:hover {
@@ -5376,7 +5389,7 @@ button,
   }
 
   .sm\:border-blue {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .sm\:border-blue-light {
@@ -5672,7 +5685,7 @@ button,
   }
 
   .sm\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .sm\:hover\:border-blue-light:hover {
@@ -7650,7 +7663,7 @@ button,
   }
 
   .sm\:text-blue {
-    color: #3490dc;
+    color: #06f;
   }
 
   .sm\:text-blue-light {
@@ -7946,7 +7959,7 @@ button,
   }
 
   .sm\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #06f;
   }
 
   .sm\:hover\:text-blue-light:hover {
@@ -8619,7 +8632,7 @@ button,
   }
 
   .md\:bg-blue {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .md\:bg-blue-light {
@@ -8915,7 +8928,7 @@ button,
   }
 
   .md\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .md\:hover\:bg-blue-light:hover {
@@ -9271,7 +9284,7 @@ button,
   }
 
   .md\:border-blue {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .md\:border-blue-light {
@@ -9567,7 +9580,7 @@ button,
   }
 
   .md\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .md\:hover\:border-blue-light:hover {
@@ -11545,7 +11558,7 @@ button,
   }
 
   .md\:text-blue {
-    color: #3490dc;
+    color: #06f;
   }
 
   .md\:text-blue-light {
@@ -11841,7 +11854,7 @@ button,
   }
 
   .md\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #06f;
   }
 
   .md\:hover\:text-blue-light:hover {
@@ -12514,7 +12527,7 @@ button,
   }
 
   .lg\:bg-blue {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .lg\:bg-blue-light {
@@ -12810,7 +12823,7 @@ button,
   }
 
   .lg\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .lg\:hover\:bg-blue-light:hover {
@@ -13166,7 +13179,7 @@ button,
   }
 
   .lg\:border-blue {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .lg\:border-blue-light {
@@ -13462,7 +13475,7 @@ button,
   }
 
   .lg\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .lg\:hover\:border-blue-light:hover {
@@ -15440,7 +15453,7 @@ button,
   }
 
   .lg\:text-blue {
-    color: #3490dc;
+    color: #06f;
   }
 
   .lg\:text-blue-light {
@@ -15736,7 +15749,7 @@ button,
   }
 
   .lg\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #06f;
   }
 
   .lg\:hover\:text-blue-light:hover {
@@ -16409,7 +16422,7 @@ button,
   }
 
   .xl\:bg-blue {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .xl\:bg-blue-light {
@@ -16705,7 +16718,7 @@ button,
   }
 
   .xl\:hover\:bg-blue:hover {
-    background-color: #3490dc;
+    background-color: #06f;
   }
 
   .xl\:hover\:bg-blue-light:hover {
@@ -17061,7 +17074,7 @@ button,
   }
 
   .xl\:border-blue {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .xl\:border-blue-light {
@@ -17357,7 +17370,7 @@ button,
   }
 
   .xl\:hover\:border-blue:hover {
-    border-color: #3490dc;
+    border-color: #06f;
   }
 
   .xl\:hover\:border-blue-light:hover {
@@ -19335,7 +19348,7 @@ button,
   }
 
   .xl\:text-blue {
-    color: #3490dc;
+    color: #06f;
   }
 
   .xl\:text-blue-light {
@@ -19631,7 +19644,7 @@ button,
   }
 
   .xl\:hover\:text-blue:hover {
-    color: #3490dc;
+    color: #06f;
   }
 
   .xl\:hover\:text-blue-light:hover {
